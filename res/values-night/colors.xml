@@ -19,6 +19,5 @@
     xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
 
     <color name="search_bar_background">?androidprv:attr/colorSurfaceVariant</color>
-    <color name="search_panel_background">@*android:color/material_grey_800</color>
-
+    <color name="search_panel_background">@*android:color/surface_variant_dark</color>
 </resources>
